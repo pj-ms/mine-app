@@ -1,2 +1,9 @@
-# mine-app
-Generated from prompt: **Overview** Deep Diggers is a browser-based, real-time multiplayer 2D mining game. Players join ...
+# Deep Diggers
+
+This app was generated using GitHub Spark.
+
+## Getting Started
+
+1. Clone this repository
+2. Follow the setup instructions for your app type
+3. Start developing!
